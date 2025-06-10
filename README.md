@@ -1,6 +1,7 @@
-# my_first
-## see what happens when you type two
-### and this is what happens when you do three
+# Data Science CV
+## Work Experience
+## Education
+## Projects
 
 *italics*
 **bold**
